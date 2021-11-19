@@ -19,6 +19,6 @@
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
   <a href="https://www.javascript.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> </a>
-  <a href="https://github.com/t41372"><img src="http://pngimg.com/uploads/brain/brain_PNG15.png" alt="My Brain" width="40" height="40"/></a>
+  <a href="https://github.com/t41372#build-fun-stuff-with"><img src="http://pngimg.com/uploads/brain/brain_PNG15.png" alt="My Brain" width="40" height="40"/></a>
   
   </p>
