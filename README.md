@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hello! I'm Yi-Ting Chiu (邱奕庭)!</h1>
+<h1 align="center"> Hello! I'm Yi-Ting Chiu (邱奕庭)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">A CS Freshman at Arizona State University</h3>
 
 <p align="center">
