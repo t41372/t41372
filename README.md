@@ -7,6 +7,8 @@
 <a href="https://www.linkedin.com/in/yi-ting-chiu/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
 </p>
 
+### Check out my [website](https://t41372.github.io/)!
+
 ### Contact me through my email
 
 - ychiu34@asu.edu or
