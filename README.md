@@ -24,3 +24,6 @@
   <a href="https://github.com/t41372#build-fun-stuff-with" title ="My Brain"><img src="http://pngimg.com/uploads/brain/brain_PNG15.png" alt="My Brain" width="40" height="40"/></a>
   
   </p>
+
+[![Yi-Ting's GitHub stats](https://github-readme-stats.vercel.app/api?username=t41372)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t41372&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
