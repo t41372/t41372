@@ -43,9 +43,10 @@
   <a href="https://github.com/t41372#build-fun-stuff-with" title ="My Brain">
     <img src="http://pngimg.com/uploads/brain/brain_PNG15.png" alt="My Brain" width="40" height="40"/>
     </a><!--Brain-->
-
+</p>
+<p>
   <a href="https://nodejs.org/" title ="NodeJS"> 
-    <img src="https://nodejs.org/static/images/logo.svg" alt="Node.JS" width="80" height="80" /> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.JS" width="80" height="80" /> 
     </a><!--Node.js-->
   <a href="https://expressjs.com/" title ="ExpressJS" alt="ExpressJS">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="80" height="80"/> 
@@ -58,7 +59,7 @@
     </a><!--SQLite-->
 
   
-  </p>
+</p>
 
 
 
