@@ -15,7 +15,7 @@
 - mytim710@163.com
 
 ### Build fun stuff with:
-<!--wanted to make this area a white box to optimize for black theme users, but github does not support css in readme file, so...-->
+<!--wanted to make this area a white box to optimize for dark theme users, but github does not support css in readme file, so...-->
 <div style="background-color: white; padding: 2%; border-radius: 3%">
 <p align="left"> 
   <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank" title="C#"> 
