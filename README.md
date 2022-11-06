@@ -15,7 +15,8 @@
 - mytim710@163.com
 
 ### Build fun stuff with:
-<div style="background-color: rgb(34, 34, 34); padding: 2%; border-radius: 3%">
+<!--wanted to make this area a white box to optimize for black theme users, but github does not support css in readme file, so...-->
+<div style="background-color: white; padding: 2%; border-radius: 3%">
 <p align="left"> 
   <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank" title="C#"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
