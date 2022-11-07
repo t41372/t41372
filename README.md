@@ -11,8 +11,7 @@
 
 ### Contact me through my email
 
-- ychiu34@asu.edu or
-- mytim710@163.com
+- ychiu34@asu.edu
 
 ### Build fun stuff with:
 <!--wanted to make this area a white box to optimize for dark theme users, but github does not support css in readme file, so...-->
