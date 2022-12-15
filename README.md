@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> Hello! I'm Yi-Ting Chiu (邱奕庭)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"></h1>
-<h3 align="center">A CS Sophomore at Arizona State University</h3>
+<h3 align="center">A CS Sophomore at Barrett, the Honors College, Arizona State University</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/yi-ting-chiu/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
