@@ -51,13 +51,19 @@
     </a><!--Node.js-->
   <a href="https://expressjs.com/" title ="ExpressJS" alt="ExpressJS">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="80" height="80"/> 
-    </a><!--SQLite-->
+    </a><!--ExpressJS-->
   <a href="https://www.sqlite.org" title ="SQLite" alt="SQLite">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="80" height="80"/> 
     </a><!--SQLite-->
   <a href="https://www.mysql.com/" title ="MySQL" alt="MySQL">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="80"/> 
-    </a><!--SQLite-->
+    </a><!--MySQL-->
+  <a href="https://www.docker.com/" title ="Docker" alt="Docker">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="80" height="80"/> 
+    </a><!--Docker-->
+  
+  
+  
 
   
 </p>
