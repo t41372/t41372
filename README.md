@@ -5,9 +5,12 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/yi-ting-chiu/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
+<a href="https://t41372.github.io"><img src="https://img.shields.io/badge/Website-Yi--Ting.live-red"></a>
 </p>
 
-### Check out my [website](https://t41372.github.io/)!
+
+### Check out my <span title="My Website! HA!">[website](https://t41372.github.io/)! </span>
+<sub>and my <sup title="no cyber attack please... I'm not a cybersecurity major. I did implemented a rather good security measure (in my opinion) though. Let me know if there is any weak spot you can find, and I will thank you for doing that">[blog](https://halo.yi-ting.live/)!</sup> <sub>(written in chinese)</sub><sup title="actually, exceptionally slow for the world largest chinese speaking region, thanks to Cloudflare Free tier cdn">(might be slow)</sup> (and can go <sub title="Oracle Always Free!">down</sub> sometimes)</sub>
 
 ### Contact me through my email
 
