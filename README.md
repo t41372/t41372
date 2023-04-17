@@ -4,8 +4,8 @@
 <h3 align="center">A CS Sophomore at Barrett the Honors College, Arizona State University</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/yi-ting-chiu/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
-<a href="https://t41372.github.io"><img src="https://img.shields.io/badge/Website-Yi--Ting.live-red"></a>
+<a title="LinkedIn!" href="https://www.linkedin.com/in/yi-ting-chiu/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
+<a title="Website!" href="https://t41372.github.io"><img src="https://img.shields.io/badge/Website-Yi--Ting.live-red"></a>
 </p>
 
 
@@ -17,7 +17,7 @@
   (and can go <sub title="Oracle Always Free!">down</sub> sometimes)
 </sub>
 
-### Contact me through my email
+### <span title="Contact me through my contact!" >Contact me through my email</span>
 
 - ychiu34@asu.edu
 
@@ -46,10 +46,10 @@
   <a href="https://www.javascript.com/" title ="JavaScript"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> 
     </a><!--JavaScript-->
-  <a href="https://git-scm.com/" target="_blank" title="Git"> 
+  <a href="https://git-scm.com/" target="_blank" title="Git, and probably Git-LFS for large files"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a><!--Git-->
-  <a href="https://github.com/t41372#build-fun-stuff-with" title ="My Brain">
+  <a href="https://github.com/t41372#build-fun-stuff-with" title ="Brain. You know">
     <img src="http://pngimg.com/uploads/brain/brain_PNG15.png" alt="My Brain" width="40" height="40"/>
     </a><!--Brain-->
 </p>
@@ -69,12 +69,8 @@
   <a href="https://www.docker.com/" title ="Docker" alt="Docker">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="80" height="80"/> 
     </a><!--Docker-->
-  
-  
-  
-
-  
 </p>
+  
 </div>
 
 
