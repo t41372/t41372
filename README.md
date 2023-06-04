@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hello! I'm Yi-Ting Chiu (邱奕庭)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"></h1>
+<h1 align="center"> Hello! I'm Yi-Ting Chiu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"></h1>
 <h3 align="center"><s>A weird guy</s></h3>
 
 <p align="center">
