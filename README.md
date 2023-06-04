@@ -5,11 +5,11 @@
 
 <p align="center">
 <a title="LinkedIn!" href="https://www.linkedin.com/in/yi-ting-chiu/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
-<a title="Website!" href="https://t41372.github.io"><img src="https://img.shields.io/badge/Website-Yi--Ting.live-red"></a>
+<a title="Website!" href="https://yi-ting.live"><img src="https://img.shields.io/badge/Website-Yi--Ting.live-red"></a>
 </p>
 
 
-### Check out my <span title="My Website! HA!">[website](https://t41372.github.io/)! </span>
+### Check out my <span title="My Website! HA!">[website](https://yi-ting.live/)! </span>
 <sub>and my 
   <sup title="no cyber attack please... I'm not a cybersecurity major. I did implemented a rather good security measure (in my opinion) though. Let me know if there is any weak spot you can find, and I will thank you for doing that">[blog](https://halo.yi-ting.live/)!</sup> 
   <sub title="well, chinese is great, isn't it?">(written in chinese)</sub>
@@ -34,6 +34,9 @@
   <a href="https://www.java.com" target="_blank" title="Java"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> <!--Java-->
+  <a href="https://www.python.org/" target="_blank" title="Python"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a> <!--Python-->
   <a href="https://unity.com/" target="_blank" title="Unity"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
     </a><!--Unity Engine-->
