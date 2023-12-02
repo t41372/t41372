@@ -37,6 +37,9 @@
   <a href="https://www.python.org/" target="_blank" title="Python"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a> <!--Python-->
+  <a href="https://flutter.dev/" title ="Flutter"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" /> 
+    </a><!--Flutter-->
   <a href="https://unity.com/" target="_blank" title="Unity"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
     </a><!--Unity Engine-->
