@@ -5,11 +5,11 @@
 
 <p align="center">
 <a title="LinkedIn!" href="https://www.linkedin.com/in/yi-ting-chiu/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
-<a title="Website!" href="https://yi-ting.live"><img src="https://img.shields.io/badge/Website-Yi--Ting.live-red"></a>
+<a title="Website!" href="https://yi-ting.com"><img src="https://img.shields.io/badge/Website-Yi--Ting.com-red"></a>
 </p>
 
 
-### Check out my <span title="My Website! HA!">[website](https://yi-ting.live/)! </span>
+### Check out my <span title="My Website! HA!">[website](https://yi-ting.com/)! </span>
 <sub>and my 
   <sup title="no cyber attack please... I'm not a cybersecurity major. I did implemented a rather good security measure (in my opinion) though. Let me know if there is any weak spot you can find, and I will thank you for doing that">[blog](https://halo.yi-ting.live/)!</sup> 
   <sub title="well, chinese is great, isn't it?">(written in chinese)</sub>
