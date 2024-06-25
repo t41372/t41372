@@ -9,9 +9,6 @@
 </p>
 
 
-### <span title="Contact me through my contact!" >Contact me through my email</span>
-
-- ychiu34@asu.edu
 
 ### Build fun stuff with:
 <!--wanted to make this area a white box to optimize for dark theme users, but github does not support css in readme file, so...-->
