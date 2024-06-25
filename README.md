@@ -9,14 +9,6 @@
 </p>
 
 
-### Check out my <span title="My Website! HA!">[website](https://yi-ting.com/)! </span>
-<sub>and my 
-  <sup title="no cyber attack please... I'm not a cybersecurity major. I did implemented a rather good security measure (in my opinion) though. Let me know if there is any weak spot you can find, and I will thank you for doing that">[blog](https://halo.yi-ting.live/)!</sup> 
-  <sub title="well, chinese is great, isn't it?">(written in chinese)</sub>
-  <sup title="actually, exceptionally slow in the world largest Chinese speaking region, thanks to Cloudflare Free tier cdn">(might be slow)</sup> 
-  (and can go <sub title="Oracle Always Free!">down</sub> sometimes)
-</sub>
-
 ### <span title="Contact me through my contact!" >Contact me through my email</span>
 
 - ychiu34@asu.edu
