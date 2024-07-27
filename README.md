@@ -68,5 +68,5 @@
   
 </div>
 
-
+<p align="right"><tiny style="color: blue">btw, in case you are wondering, there was no Sunhacks 2022</tiny></p>
 
