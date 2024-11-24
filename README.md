@@ -14,6 +14,9 @@
 <!--wanted to make this area a white box to optimize for dark theme users, but github does not support css in readme file, so...-->
 <div style="background-color: white; padding: 2%; border-radius: 3%">
 <p align="left"> 
+  <a href="https://www.python.org/" target="_blank" title="Python"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a> <!--Python-->
   <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank" title="C#"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
     </a> <!--C#-->
@@ -23,9 +26,6 @@
   <a href="https://www.java.com" target="_blank" title="Java"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> <!--Java-->
-  <a href="https://www.python.org/" target="_blank" title="Python"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> <!--Python-->
   <a href="https://flutter.dev/" title ="Flutter"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" /> 
     </a><!--Flutter-->
@@ -52,6 +52,9 @@
   <a href="https://nodejs.org/" title ="NodeJS"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.JS" width="80" height="80" /> 
     </a><!--Node.js-->
+  <a href="https://fastapi.tiangolo.com" title ="FastAPI"> 
+    <img src="https://camo.githubusercontent.com/4ebb06d037b495f2c4c67e0ee4599f747e94e6323ece758a7da27fbbcb411250/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67" alt="FastAPI" width="230" height="80" /> 
+    </a><!--FastAPI-->
   <a href="https://expressjs.com/" title ="ExpressJS" alt="ExpressJS">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="80" height="80"/> 
     </a><!--ExpressJS-->
@@ -68,5 +71,5 @@
   
 </div>
 
-<p align="right"><tiny style="color: blue">btw, in case you are wondering, there was no Sunhacks 2022</tiny></p>
+
 
