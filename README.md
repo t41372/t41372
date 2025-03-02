@@ -5,7 +5,8 @@
 
 <p align="center">
 <a title="LinkedIn!" href="https://www.linkedin.com/in/yi-ting-chiu/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
-<a title="Website!" href="https://yi-ting.com"><img src="https://img.shields.io/badge/Website-Yi--Ting.com-red"></a>
+<a title="Website!" href="https://yi-ting.com"><img src="https://img.shields.io/badge/Website-yi--ting.com-red"></a>
+<a title="Blog" href="https://blog.yi-ting.com"><img src="https://img.shields.io/badge/Blog-blog.yi--ting.com-blue"></a>
 </p>
 
 
