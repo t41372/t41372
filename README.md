@@ -9,7 +9,10 @@
 <a title="Blog" href="https://blog.yi-ting.com"><img src="https://img.shields.io/badge/Blog-blog.yi--ting.com-blue"></a>
 </p>
 
+### Fun stuff I'm working on:
 
+- I created and am maintaining [@Open-LLM-VTuber](https://github.com/Open-LLM-VTuber) project.
+- I'm working on @standard-voice (not released yet).
 
 ### Build fun stuff with:
 <!--wanted to make this area a white box to optimize for dark theme users, but github does not support css in readme file, so...-->
