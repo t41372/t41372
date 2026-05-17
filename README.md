@@ -12,4 +12,4 @@
 ### Fun stuff I'm working on:
 
 - I created and am maintaining [@Open-LLM-VTuber](https://github.com/Open-LLM-VTuber) project.
-- I'm working on @standard-voice (not released yet).
+- Currently working on PathKeep and @standard-voice (not released yet) as well.
